@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/Mohammadrezar/tablig.git && cd tablighchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
+git clone https://github.com/mohammadspemmer/aytorto.git && cd aytorto && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -52,7 +52,7 @@ Enter Sudo Id
 کدهای زیر را بترتیب بزنید
 
 ```
-cd tablighchi
+cd aytorto
 
 screen ./tabchi-1.sh
 ```
@@ -94,13 +94,13 @@ python3 creator.py
 
 
 ```
-cd tablighchi
+cd aytorto
 
 ./diamond.sh
 ```
 
-#Ch: [@TeleDiamondCh](http://telegram.me/telediamondch)
+#Ch: [@mohammadbots](http://telegram.me/mohammadbots)
 
-#Opened By: [@Mrr619](http://telegram.me/Mrr619)
+#Opened By: [@www_sik_ir](http://telegram.me/www_sik_ir)
 
-#Developer: Amirsbss
+#Developer: mohammadspemmer
