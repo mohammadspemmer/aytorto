@@ -1,4 +1,4 @@
-#[Tablighchi](http://telegram.me/telediamondch)
+#[aytorto](http://telegram.me/mohammadbots)
 
 ستاره فراموش نشه
 
@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/Mohammadrezar/tablighchi.git && cd tablighchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
+git clone https://github.com/Mohammadrezar/tablig.git && cd tablighchi && chmod 777 install.sh && chmod +x diamond.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
